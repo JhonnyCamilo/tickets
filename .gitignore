@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+mlruns/
+tracking/backend.db
+tracking/experiment_ml/
+utils/__pycache__
+tracking/mlflow.db
+#tracking/data
+topic_mapping_1.json
